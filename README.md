@@ -10,3 +10,5 @@
 chsong877/chsong877 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img width="359" alt="화면 캡처 2023-07-10 190048" src="https://github.com/chsong877/chsong877/assets/139216204/b8034f3f-c970-46bc-ad1d-7d1de4213fee">
+<img width="352" alt="shmup 화면 캡쳐" src="https://github.com/chsong877/chsong877/assets/139216204/102e9c35-fd49-4217-b12b-eb6a947d64fc">
